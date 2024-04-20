@@ -5,6 +5,7 @@ public class FunctionTest {
 	public static void main(String[] args) {
 		int num1 = 10;
 		int num2 = 30;
+		String test = "수정사항";
 		
 		
 		int sum = addNum(num1, num2);    //함수를 호출하여 더하고 sum변수에 담아줌
